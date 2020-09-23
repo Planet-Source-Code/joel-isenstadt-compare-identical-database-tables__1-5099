@@ -1,0 +1,76 @@
+
+Comparing Orders with Orders
+
+000  Project Number | Project Number Fields the Same. Data Type is adCurrency
+001  Customer_Number | Customer_Number Fields the Same. Data Type is adVarChar
+002  Customer_ Name | Customer_ Name Fields the Same. Data Type is adVarChar
+003  Host Order Number | Host Order Number Fields the Same. Data Type is adVarChar
+004  Course Number | Course Number Fields the Same. Data Type is adVarChar
+005  Order Date | Order Date Fields the Same. Data Type is adDate
+006  Course Topic | Course Topic Fields the Same. Data Type is adVarChar
+007  Vendor Type | Vendor Type Fields the Same. Data Type is adVarChar
+008  Sales Representative | Sales Representative Fields the Same. Data Type is adVarChar
+009  Month | Month Fields the Same. Data Type is adSmallInt
+010  Course Start Date | Course Start Date Fields the Same. Data Type is adDate
+011  Course End Date | Course End Date Fields the Same. Data Type is adDate
+012  Course Length | Course Length Fields the Same. Data Type is adDouble
+013  Student Attendance | Student Attendance Fields the Same. Data Type is Unknown
+014  # Publ Seats Avail | # Publ Seats Avail Fields the Same. Data Type is Unknown
+015  Selling Price | Selling Price Fields the Same. Data Type is adCurrency
+016  Public Rebate | Public Rebate Fields the Same. Data Type is adCurrency
+017  Text Fee | Text Fee Fields the Same. Data Type is adCurrency
+018  Facility Fee | Facility Fee Fields the Same. Data Type is adCurrency
+019  Last Date Change | Last Date Change Fields the Same. Data Type is adDate
+020  Invoice Number | Invoice Number Fields the Same. Data Type is adVarChar
+021  Invoice Date | Invoice Date Fields the Same. Data Type is adDate
+022  Expense Inv  Number | Expense Inv  Number Fields the Same. Data Type is adVarChar
+023  Expense Inv Date | Expense Inv Date Fields the Same. Data Type is adDate
+024  Expense Inv Amount | Expense Inv Amount Fields the Same. Data Type is adCurrency
+025  Expense Amount Recd | Expense Amount Recd Fields the Same. Data Type is adCurrency
+026  Date Paid1 | Date Paid1 Fields the Same. Data Type is adDate
+027  Amount Recd1 | Amount Recd1 Fields the Same. Data Type is adCurrency
+028  Date Paid2 | Date Paid2 Fields the Same. Data Type is adDate
+029  Amount Recd2 | Amount Recd2 Fields the Same. Data Type is adCurrency
+030  Date Paid3 | Date Paid3 Fields the Same. Data Type is adDate
+031  Amount Recd3 | Amount Recd3 Fields the Same. Data Type is adCurrency
+032  Evaluation Score | Evaluation Score Fields the Same. Data Type is adVarChar
+033  Miscellaneous | Miscellaneous Fields the Same. Data Type is adVarChar
+034  Invoice Amount | Invoice Amount Fields the Same. Data Type is adCurrency
+035  Instructor Comments | Instructor Comments Fields the Same. Data Type is adVarChar
+036  Student Comments | Student Comments Fields the Same. Data Type is adVarChar
+037  Confirmation Letter Received | Confirmation Letter Received Fields the Same. Data Type is adDate
+038  Credit Memo Number | Credit Memo Number Fields the Same. Data Type is adVarChar
+039  Credit Memo Amount | Credit Memo Amount Fields the Same. Data Type is adCurrency
+040  Credit Memo Date | Credit Memo Date Fields the Same. Data Type is adDate
+041  Student Name #1 | Student Name #1 Fields the Same. Data Type is adVarChar
+042  Student Name #2 | Student Name #2 Fields the Same. Data Type is adVarChar
+043  Student Name #3 | Student Name #3 Fields the Same. Data Type is adVarChar
+044  Student Name #4 | Student Name #4 Fields the Same. Data Type is adVarChar
+045  Student Name #5 | Student Name #5 Fields the Same. Data Type is adVarChar
+046  Student Name #6 | Student Name #6 Fields the Same. Data Type is adVarChar
+047  Student Name #7 | Student Name #7 Fields the Same. Data Type is adVarChar
+048  Student Name #8 | Student Name #8 Fields the Same. Data Type is adVarChar
+049  Student Name #9 | Student Name #9 Fields the Same. Data Type is adVarChar
+050  Student Name #10 | Student Name #10 Fields the Same. Data Type is adVarChar
+051  Student Name #11 | Student Name #11 Fields the Same. Data Type is adVarChar
+052  Student Name #12 | Student Name #12 Fields the Same. Data Type is adVarChar
+053  Student Name #13 | Student Name #13 Fields the Same. Data Type is adVarChar
+054  Student Name #14 | Student Name #14 Fields the Same. Data Type is adVarChar
+055  Student Name #15 | Student Name #15 Fields the Same. Data Type is adVarChar
+056  Student Name #16 | Student Name #16 Fields the Same. Data Type is adVarChar
+057  Student Name #17 | Student Name #17 Fields the Same. Data Type is adVarChar
+058  Student Name #18 | Student Name #18 Fields the Same. Data Type is adVarChar
+059  Student Name #19 | Student Name #19 Fields the Same. Data Type is adVarChar
+060  Student Name #20 | Student Name #20 Fields the Same. Data Type is adVarChar
+061  Student Name #21 | Student Name #21 Fields the Same. Data Type is adVarChar
+062  Student Name #22 | Student Name #22 Fields the Same. Data Type is adVarChar
+063  Student Name #23 | Student Name #23 Fields the Same. Data Type is adVarChar
+064  Student Name #24 | Student Name #24 Fields the Same. Data Type is adVarChar
+065  Student Name #25 | Student Name #25 Fields the Same. Data Type is adVarChar
+066  Student Name #26 | Student Name #26 Fields the Same. Data Type is adVarChar
+067  Student Name #27 | Student Name #27 Fields the Same. Data Type is adVarChar
+068  Student Name #28 | Student Name #28 Fields the Same. Data Type is adVarChar
+069  Student Name #29 | Student Name #29 Fields the Same. Data Type is adVarChar
+070  Student Name #30 | Student Name #30 Fields the Same. Data Type is adVarChar
+
+Database Table 2 is Finished while Database 1 still has fields
